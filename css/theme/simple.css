@@ -15,7 +15,7 @@ body {
   background-color: #fff1e0; }
 
 .reveal {
-  font-family:"Bitter",sans-serif;
+  font-family:Helvetica Neue,Verdana,Arial,Hiragino Sans GB,WenQuanYi Micro Hei,Heiti SC,STHeiti,Microsoft Yahei,SimSun,sans-serif;
   font-size: 36px;
   font-weight: normal;
   color: #000; }
@@ -41,7 +41,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #000;
-  font-family: "Bitter",sans-serif;
+  font-family: Helvetica Neue,Verdana,Arial,Hiragino Sans GB,WenQuanYi Micro Hei,Heiti SC,STHeiti,Microsoft Yahei,SimSun,sans-serif;
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: normal;
